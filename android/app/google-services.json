@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "680967111721",
+    "firebase_url": "https://sheet-demo-8370f-default-rtdb.firebaseio.com",
+    "project_id": "sheet-demo-8370f",
+    "storage_bucket": "sheet-demo-8370f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680967111721:android:73f3965e667f49acc30838",
+        "android_client_info": {
+          "package_name": "com.example.sheet_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680967111721-brqfe7rp1k9f7j1atluskcdrt9aac97e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sheet_demo",
+            "certificate_hash": "73d61f120010b4c2a6af9e06b3f7e9a76ba622a6"
+          }
+        },
+        {
+          "client_id": "680967111721-c6iru46qdho3u8h0tkklrdl7ino5s63f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sheet_demo",
+            "certificate_hash": "db33d97e8bc5ebbe76957caa2b4843f6bf189547"
+          }
+        },
+        {
+          "client_id": "680967111721-chvc3uqb49irh25i8gc6im010o6tedm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sheet_demo",
+            "certificate_hash": "10c13921c1d1299ad32dea84d34cd3c5b7d2dfb1"
+          }
+        },
+        {
+          "client_id": "680967111721-e58siqmmjv1qlte0ointb6a6vtfpkcej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sheet_demo",
+            "certificate_hash": "237579ed13462b47f7dd1628f1ca606373f134fa"
+          }
+        },
+        {
+          "client_id": "680967111721-b4r2sqiruv0hh083481ds53us9p0demb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQO4n1Q_gimQXOrRiZ3XACo7UagRZHmcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680967111721-b4r2sqiruv0hh083481ds53us9p0demb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680967111721-9bd74kerh338a2g68t63nf1k9gmc2mra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sheetDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
